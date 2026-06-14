@@ -1,7 +1,7 @@
 body {
   font-family: system-ui, sans-serif;
   text-align: center;
-  color: #ffffff; /* Changed to white so you can read the text on black */
+  color: #e4e6eb; /* Changed to white so you can read the text on black */
   background-color: #000000; /* Sets the background to black */
   margin-top: 80px;
 }
